@@ -1,0 +1,20 @@
+# cache
+.cache
+__pycache__/
+
+# env variables
+.env
+
+# PyInstaller
+*.manifest
+*.spec
+
+# PyBuilder
+target/
+reports/
+build/
+artifacts/
+
+# Hardhat nodes
+/node_modules
+.hypothesis/
